@@ -1,0 +1,16 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="600" fill="#f3f5f7"/>
+<rect x="0" y="420" width="800" height="20" fill="#0b1220"/>
+<rect x="140" y="180" width="520" height="240" rx="8" fill="#0b1220"/>
+<rect x="160" y="200" width="480" height="200" rx="4" fill="#0f9d7c" opacity="0.15"/>
+<g font-family="IBM Plex Mono, monospace" font-size="14" fill="#0f9d7c">
+<text x="180" y="230">$ git push origin main</text>
+<text x="180" y="255">→ 3 files changed</text>
+<text x="180" y="280">$ docker build -t corporate-website .</text>
+<text x="180" y="305">→ build successful</text>
+<text x="180" y="330">$ kubectl apply -f deployment.yaml</text>
+<text x="180" y="355">→ deployment.apps/corporate-website configured</text>
+</g>
+<rect x="370" y="420" width="60" height="60" fill="#0b1220"/>
+<rect x="300" y="480" width="200" height="16" rx="8" fill="#5b6472"/>
+</svg>

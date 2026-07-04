@@ -1,0 +1,17 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="glow" cx="50%" cy="30%" r="60%">
+<stop offset="0%" stop-color="#0f9d7c" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#0b1220" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="800" height="600" fill="#0b1220"/>
+<rect width="800" height="600" fill="url(#glow)"/>
+<g fill="#ff8a3d">
+<circle cx="150" cy="480" r="6"/><circle cx="200" cy="450" r="6"/><circle cx="260" cy="500" r="6"/>
+<circle cx="340" cy="440" r="6"/><circle cx="420" cy="490" r="6"/><circle cx="500" cy="450" r="6"/>
+<circle cx="580" cy="500" r="6"/><circle cx="650" cy="460" r="6"/>
+</g>
+<text x="400" y="250" font-family="Space Grotesk, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">NEXORA</text>
+<text x="400" y="290" font-family="IBM Plex Mono, monospace" font-size="16" fill="#0f9d7c" text-anchor="middle" letter-spacing="3">ANNUAL SUMMIT</text>
+</svg>

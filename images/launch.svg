@@ -1,0 +1,15 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="600" fill="#0b1220"/>
+<polygon points="400,80 460,420 340,420" fill="#0f9d7c"/>
+<polygon points="400,80 430,420 400,420" fill="#0b6b53"/>
+<circle cx="400" cy="140" r="26" fill="#f3f5f7"/>
+<g stroke="#ff8a3d" stroke-width="4" opacity="0.7">
+<line x1="330" y1="440" x2="300" y2="500"/>
+<line x1="470" y1="440" x2="500" y2="500"/>
+</g>
+<g fill="#5b6472" opacity="0.6">
+<circle cx="150" cy="500" r="3"/><circle cx="200" cy="480" r="3"/><circle cx="620" cy="490" r="3"/>
+<circle cx="670" cy="460" r="3"/><circle cx="120" cy="200" r="3"/><circle cx="700" cy="220" r="3"/>
+</g>
+<text x="400" y="560" font-family="IBM Plex Mono, monospace" font-size="15" fill="#8991a0" text-anchor="middle" letter-spacing="2">v3.0 — GENERAL AVAILABILITY</text>
+</svg>
